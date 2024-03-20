@@ -22,15 +22,18 @@ How to Use
 Technologies
 ----------------------------------------------------------------------------------
 1.HTML: Markup language for creating the structure of the web page.
+<br>
 2.CSS: Styling language for designing the layout and appearance of the app.
+<br>
 3.JavaScript: Programming language for adding interactivity and fetching weather data.
+<br>
 4.OpenWeatherMap API: External API used for retrieving weather data based on city names.
 
 Features
 ------------------------------------------
-1.Search Functionality: Users can enter the name of a city to get its current weather information.
-2.Error Handling: If the entered city name is invalid or not found, the app displays an error message.
-3.Weather Details: The app displays the temperature, humidity, and wind speed of the searched city.
-4.Weather Icons: Weather icons change dynamically based on the weather conditions of the city.
+1.Search Functionality: Users can enter the name of a city to get its current weather information.<br>
+2.Error Handling: If the entered city name is invalid or not found, the app displays an error message.<br>
+3.Weather Details: The app displays the temperature, humidity, and wind speed of the searched city.<br>
+4.Weather Icons: Weather icons change dynamically based on the weather conditions of the city.<br>
 
 
