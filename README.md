@@ -7,6 +7,7 @@ You can see the website JS https://changed-weather.netlify.app/
 How to Use
 ------------------------------------------------------------------------------------------
 1.Enter the name of a city in the search input field.
+<br>
 ![image](https://github.com/Sumithra49/Weather-Application/assets/141726527/76d0e934-4676-4488-bd92-9f738fb587b0)
 
 2.Click the search button or press Enter to retrieve the weather information.
